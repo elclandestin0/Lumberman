@@ -1,0 +1,3 @@
+To run this program at two players in the same time, simply load the editor and the trial.exe (zipped in this project). Whichever one runs first would be the host. Use the WSAD keys to 
+navigate around the map, and avoid the 3 ghosts ! The player with the most points by the end of the game, wins! Enjoy! For consideration: the ghosts aren't synchronized on time, but the 
+player movements are (with some latency issues). 
